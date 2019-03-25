@@ -6,10 +6,10 @@ function basicTeenager(age) {
 }
 
 function teenager(age) {
-  // learning if-elsen
+  // learning if-else
   if (age > 12 && age < 20) {
     return "You are a teenager!";
-  } else if (age < 13) {
+  } else  {
     return "You are not a teenager!";
   }
 }
